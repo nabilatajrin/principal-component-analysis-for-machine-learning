@@ -1,4 +1,5 @@
 # principal-component-analysis
+This repository contains projects of Principal Component Analysis.
 
 ## Mean/covariance of a dataset + effect of a linear transformation
 We will now look at computing means and (co)variances of data sets and the effect of linear transformations of the data sets on the mean and covariance. For this, we will write some code snippets.<br>
