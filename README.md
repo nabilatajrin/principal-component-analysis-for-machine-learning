@@ -13,3 +13,9 @@ Link: https://github.com/nabilatajrin/principal-component-analysis/blob/main/mea
 In this project, we will implement orthogonal projection which projects data onto lower-dimensional subspaces. We will then apply this to the problem of "eigenfaces" which will help us understand the application of orthogonal projection in the real world.
 Link: https://github.com/nabilatajrin/principal-component-analysis/blob/main/orthogonal-projections.ipynb
 
+## Principal Components Analysis (PCA)
+In this project, we will <br>
+1. Implement the main steps of PCA, <br>
+2. Apply it to an image data set.
+3. Implement PCA for high-dimensional dataset and perform a brief analysis of computation time. <br>
+Link: 
