@@ -18,4 +18,5 @@ In this project, we will <br>
 1. Implement the main steps of PCA, <br>
 2. Apply it to an image data set.
 3. Implement PCA for high-dimensional dataset and perform a brief analysis of computation time. <br>
-Link: 
+Link: https://github.com/nabilatajrin/principal-component-analysis-for-machine-learning/blob/main/principal-components-analysis.ipynb
+
